@@ -1,0 +1,7 @@
+ff485e,127.0.0.1,GET,http://127.0.0.1:8000/messages/send?text=232,1731523116,,204,request
+0b4ec2,127.0.0.1,GET,http://127.0.0.1:8000/messages/send?text=zxczxczx,1731523171,,204,request
+982394,127.0.0.1,GET,http://127.0.0.1:8000/messages/send?text=zxczxczx,1731523194,,204,request
+e01102,127.0.0.1,GET,http://127.0.0.1:8000/messages/send?text=wqdqwdqdq,1731523230,,204,request
+c34ac1,127.0.0.1,GET,http://127.0.0.1:8000/messages/send?text=wqdqwdqdq,1731599362,,204,request
+35f0b7,127.0.0.1,GET,http://127.0.0.1:8000/messages?status=read,1731599397,,200,request
+a479ea,127.0.0.1,GET,http://127.0.0.1:8000/messages?status=read,1731599413,,200,request
